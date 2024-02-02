@@ -1,2 +1,1 @@
-# cv_prog_teacher
-My CV of teacher of programming in Markdown 
+https://tkarevagithub.github.io/cv_prog_teacher/
